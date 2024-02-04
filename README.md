@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-      ʙɪᴋᴀꜱʜ ᴍᴜꜱɪᴄ 2.0
+      SMARTY MUSIC 2.0
 </h2>
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/4d7a997a6c8c4eb406829.jpg">
+  <img src="https://te.legra.ph/file/4cbc496f0873d47b525af.jpg">
 </p>
 
 
@@ -183,9 +183,9 @@ Press ``Ctrl+C `` when you're done with editing env and ``:wq`` to save the env<
 
 ## Now its time to give some credits ✨ :
 
-- [BGT](https://github.com/BikashHalder) For everything 
-- [Aditya-Halder](https://github.com/AdityaHalder) For fixed errors
-- [YUKKI-MUSIC](https://github.com/TeamYukki) For Yukki Music Bot
+- [BGT](https://github.com/Egoisticboy) For everything 
+- [SMARTY](https://github.com/Egoisticboy) For fixed errors
+- [SMARTY-MUSIC](https://github.com/TeamYukki) For Yukki Music Bot
 - [Dan](https://github.com/pyrogram) For pyrogram
 - [Laky](https://github.com/pytgcalls) For py-tgcalls
 
@@ -195,19 +195,19 @@ Press ``Ctrl+C `` when you're done with editing env and ``:wq`` to save the env<
 
 ## Support & Updates ⚡ :
 
-<a href="https://t.me/bgt_chat"><img src="https://img.shields.io/badge/Join-Group%20Support-darkblue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/BikashGadgetsTech"><img src="https://img.shields.io/badge/Join-Updates%20Channel-darkblue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/wondergroupp"><img src="https://img.shields.io/badge/Join-Group%20Support-darkblue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/wondergroupp"><img src="https://img.shields.io/badge/Join-Updates%20Channel-darkblue.svg?style=for-the-badge&logo=Telegram"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🖥️ Owner Of This Repository :
 
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Bikash Halder](https://te.legra.ph/file/4cbc496f0873d47b525af.jpg)](https://t.me/wondergroupp)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Also support  our youtube channel by subscribing it :
 
-<a href="https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg"><img src="https://img.shields.io/badge/Youtube%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/@aviofficial0008?si=zInN3_Q8qMRMdWRW"><img src="https://img.shields.io/badge/Youtube%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
